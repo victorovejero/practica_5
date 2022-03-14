@@ -1,0 +1,13 @@
+{"users":[
+  {
+    "name": "Victor",
+    "lastName": "Ovejero",
+    "password": "PAT123"
+  },
+  {
+    "name": "Juan Antonio",
+    "lastName": "Breña Moral",
+    "password": "ProfePAT123"
+  }
+]
+}
